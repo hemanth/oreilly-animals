@@ -1,7 +1,7 @@
 {
   "name": "oreilly-animals",
   "version": "1.0.0",
-  "description": "List of oreilly animal coverpage names.",
+  "description": "List of oreilly animal cover-page names.",
   "license": "MIT",
   "repository": "hemanth/oreilly-animals",
   "author": {
@@ -19,7 +19,9 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "oreilly",
+    "animals",
+    "names"
   ],
   "dependencies": {},
   "devDependencies": {

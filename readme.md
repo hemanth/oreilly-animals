@@ -1,6 +1,6 @@
 # oreilly-animals [![Build Status](https://travis-ci.org/hemanth/oreilly-animals.svg?branch=master)](https://travis-ci.org/hemanth/oreilly-animals)
 
-> List of [oreilly](http://www.oreilly.com/) animal coverpage names.
+> List of [oreilly](http://www.oreilly.com/) animal cover-page names.
 
 
 ## Install
